@@ -44,8 +44,8 @@ Hi there, I'm **Ruize Nie**, a **Master Student of Applied Computer Science** ( 
 
 #### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql)
-![MongoDB](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=mongodb)
-![Neo4j](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=neo4j&logoColor=ffffff)
+![MongoDB](http://img.shields.io/badge/-MongoDB-DD0031?style=flat-square&logo=mongodb)
+![Neo4j](http://img.shields.io/badge/-Neo4j-CC2927?style=flat-square&logo=neo4j&logoColor=ffffff)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
