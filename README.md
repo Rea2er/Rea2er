@@ -55,3 +55,13 @@ Hi there, I'm **Ruize Nie**, a **Master Student of Applied Computer Science** ( 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
+
+<!--
+### Recently I'm coding in...
+
+<a href="https://codestats.net/users/Rea2er">
+  <img src='https://codestats-readme.wegfan.cn/history-graph/Rea2er?width=850&height=300&timezone=08:00&history_days=14&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="WEGFan's Code::Stats history graph" />
+</a>
+
+---
+-->
