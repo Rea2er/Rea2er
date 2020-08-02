@@ -1,9 +1,9 @@
 ### Hey 👋, I'm Ruize
 
-<a href="https://www.linkedin.com/in/ruize-nie-99b251140/">
+<a href="https://www.linkedin.com/in/ruize-nie-99b251140/" target="_blank">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100013284134591&ref=bookmarks">
+<a href="https://www.facebook.com/profile.php?id=100013284134591&ref=bookmarks" target="_blank">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -64,6 +64,7 @@ Hi there, I'm **Ruize Nie**, a **Master Student of Applied Computer Science** ( 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
+<!---
 ### Recently I'm coding in...
 
 <a href="https://codestats.net/users/Rea2er">
@@ -71,3 +72,4 @@ Hi there, I'm **Ruize Nie**, a **Master Student of Applied Computer Science** ( 
 </a>
 
 ---
+--->
