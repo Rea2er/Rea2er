@@ -35,6 +35,7 @@ Hi there, I'm **Ruize Nie**, a **Master Student of Applied Computer Science** ( 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
 ![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Node](http://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
@@ -49,6 +50,7 @@ Hi there, I'm **Ruize Nie**, a **Master Student of Applied Computer Science** ( 
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql&logoColor=ffffff)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff)
 ![Neo4j](http://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=ffffff)
 
 #### Other
