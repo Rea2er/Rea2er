@@ -64,7 +64,6 @@ Hi there, I'm **Ruize Nie**, a **Master Student of Applied Computer Science** ( 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
-<!---
 ### Recently I'm coding in...
 
 <a href="https://codestats.net/users/Rea2er">
@@ -72,4 +71,3 @@ Hi there, I'm **Ruize Nie**, a **Master Student of Applied Computer Science** ( 
 </a>
 
 ---
---->
