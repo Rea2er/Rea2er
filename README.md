@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi there, I'm **Ruize Nie**, a **Master Student of Applied Computer Science** ( Dalhousie University 🏫 ) and I am a **Full Stack Software Developer** 🚀.  👨🏽‍💻. Here is my personal portfolio [Click here](https://rea2er.github.io/)👨🏽‍💼. 
+Hi there, I'm **Ruize Nie**, with a **Master Degree in Applied Computer Science** ( Dalhousie University 🏫 ) and I am a **Full Stack Software Developer** 🚀.  👨🏽‍💻. Here is my personal portfolio [Click here](https://rea2er.github.io/)👨🏽‍💼. 
 
   <img align="right" alt="GIF" width="350px" src="https://www.chinosity.com/wp-content/uploads/2019/05/yas-cat-gif-1.gif" />
 
