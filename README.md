@@ -16,9 +16,8 @@ Hi there, I'm **Ruize Nie**, with a **Master Degree in Applied Computer Science*
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently studying at Dalhousie University
-- 🌱 I’m currently learning GraphQL
-- 👯 I’m looking to collaborate on React.js
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate on React.js, Flutter
 - 🤔 I’m looking for help with React.js, AWS 
 - 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: ... He / Him
