@@ -18,7 +18,7 @@ Hi there, I'm **Ruize Nie**, with a **Master Degree in Applied Computer Science*
 
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on React.js, Flutter
-- 🤔 I’m looking for help with React.js, AWS 
+- 🤔 I’m looking for help with Flutter, React.js, JavaEE 
 - 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I love coding
