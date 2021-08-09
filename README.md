@@ -1,3 +1,6 @@
+![](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
+
+
 ### Hey 👋, I'm Ruize
 
 <a href="https://www.linkedin.com/in/ruize-nie-99b251140/" target="_blank">
