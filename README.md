@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ruize Nie](https://ruizenie.com/)!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ruize Nie](https://ruizenie.com/)! 
 
 <a href="https://www.linkedin.com/in/ruize-nie-99b251140/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -18,23 +18,47 @@
 
 <br />
 
-### About Me 🚀
-💼 I'm a software developer at IBM Canada. </br>
+### About Me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22"/>
+💼 I'm a software developer at IBM Canada, focuses primarily in web, mobile and cloud software development </br>
 🎓 I’m an tech-enthusiast & Master Degree in Applied Computer Science with GPA 4.0/4.3 at Dalhousie University 🏫. </br>
 👨‍💻 I'm passionate about Fullstack Web, Mobile Dev, Algorithm, Cloud & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Software Developer (IBM Canada)](https://www.ibm.com/ca-en) - IBMers believe in progress—that the application of intelligence, reason and science can improve business, society and the human condition.
-- [Fullstack Developer (Marine Thinking)](https://www.marinethinking.com/) - Redefining the marine industry through the use of our highly advanced artificial intelligence (AI) and robotic technologies.
+- [Software Developer (IBM Canada)](https://www.ibm.com/ca-en) - Lead in the creation, development and manufacture of the industry's most advanced information technologies.
+- [Technical Content Creator (YouTube)](https://www.youtube.com/channel/UCWiC79M4FJ-Ylvk7lkk3n5A) - Give everyone a voice and show them the world.
+- [Fullstack Developer (Marine Thinking)](https://www.marinethinking.com/) - Redefining the marine industry through the use of our highly advanced artificial intelligence and robotic technologies.
 
-**Talking about Personal Stuffs:**
+### Honors & Awards 🏅
+- Received a Best Suggestion Award from [Marine Thinking](https://www.marinethinking.com/) in Mid-year performance review.
+- Received 1st in [Bank & Insurance Hackathon](https://www.hackathon.com/event/banking-and-insurance-hackathon-92216366635) from CGI & TD for challenges faced in the banking and insurance industry.
+- Received scholarly award twice [Dean's List](http://dal.ca/) when studied in Plan Science at Dalhousie Agricultural Campus.
+- Selected as top 1% student for the [Chinese Government Scholarships](https://www.chinesescholarshipcouncil.com/) awarded by Chinese Scholarship Council for an international student to study abroad.
 
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on React.js, Flutter
-- 🤔 I’m looking for help with Flutter, React.js, JavaEE 
-- 💬 Ask me about anything, I am happy to help;
-- 😄 Pronouns: ... He / Him
-- ⚡ Fun fact: ... I love coding
+### Things I code with 🚀
+<p>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+<img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+<img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+<img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</P>
 
 ### My Tech Stack
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
@@ -49,7 +73,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
-![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff)
 ![Node](http://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
