@@ -1,21 +1,31 @@
-![](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ruize Nie](https://ruizenie.com/)!
 
-
-### Hey 👋, I'm Ruize
-
-<a href="https://www.linkedin.com/in/ruize-nie-99b251140/" target="_blank">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/ruize-nie-99b251140/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100013284134591&ref=bookmarks" target="_blank">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCWiC79M4FJ-Ylvk7lkk3n5A">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="mailto:ruize.nie@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.patreon.com/fullstackschool" target="_blank">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />
 </a>
 
 <br />
-<br />
 
-Hi there, I'm **Ruize Nie**, with a **Master Degree in Applied Computer Science** ( Dalhousie University 🏫 ) and I am a **Full Stack Software Developer** 🚀. 
+### About Me 🚀
+💼 I'm a software developer at IBM Canada. </br>
+🎓 I’m an tech-enthusiast & Master Degree in Applied Computer Science with GPA 4.0/4.3 at Dalhousie University 🏫. </br>
+👨‍💻 I'm passionate about Fullstack Web, Mobile Dev, Algorithm, Cloud & I enjoy learning new things. </br>
 
-  <img align="right" alt="GIF" width="350px" src="https://www.chinosity.com/wp-content/uploads/2019/05/yas-cat-gif-1.gif" />
+### My Experiences 🙌
+- [Software Developer (IBM Canada)](https://www.ibm.com/ca-en) - IBMers believe in progress—that the application of intelligence, reason and science can improve business, society and the human condition.
+- [Fullstack Developer (Marine Thinking)](https://www.marinethinking.com/) - Redefining the marine industry through the use of our highly advanced artificial intelligence (AI) and robotic technologies.
 
 **Talking about Personal Stuffs:**
 
