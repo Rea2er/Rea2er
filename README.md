@@ -36,7 +36,6 @@
 
 ### Things I code with 🚀
 ![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -46,6 +45,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-3776AB?style=flat-square&logo=dart&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql&logoColor=white)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
 ![Heroku](http://img.shields.io/badge/-heroku-6762A6?style=flat-square&logo=heroku&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
