@@ -31,7 +31,7 @@
 ### Honors & Awards 🏅
 - Received a Best Suggestion Award from [Marine Thinking](https://www.marinethinking.com/) in Mid-year performance review.
 - Received 1st in [Bank & Insurance Hackathon](https://www.hackathon.com/event/banking-and-insurance-hackathon-92216366635) from CGI & TD for challenges faced in the banking and insurance industry.
-- Received scholarly award twice [Dean's List](http://dal.ca/) when studied in Plant Science, B.S. at Dalhousie Agricultural Campus.
+- Received scholarly award [Dean's List](http://dal.ca/) when studied in Plant Science, B.S. at Dalhousie Agricultural Campus.
 - Selected as top 1% student for the [Chinese Government Scholarships](https://www.chinesescholarshipcouncil.com/) awarded by Chinese Scholarship Council for an international student to study abroad.
 
 ### Things I code with 🚀
