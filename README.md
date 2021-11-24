@@ -19,7 +19,7 @@
 <br />
 
 ### About Me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22"/>
-💼 I'm an incoming software developer at IBM Canada. </br>
+💼 I'm an software developer at IBM Canada. </br>
 🎓 I’m an tech-enthusiast & Master Degree in Applied Computer Science with GPA 4.0/4.3 at Dalhousie University 🏫. </br>
 👨‍💻 I'm passionate about Fullstack Web, Mobile Dev, Algorithm, Cloud & I enjoy learning new things. </br>
 
