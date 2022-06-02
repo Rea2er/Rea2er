@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ruize Nie](https://ruizenie.com/)! 
+## Hey, I'm [Ruize Nie](https://ruizenie.com/)! 
 
 <a href="https://www.linkedin.com/in/ruize-nie-99b251140/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
